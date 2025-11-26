@@ -1,0 +1,10 @@
+../Core/Inc/sx1272/sx1272mb2das-board.c:76:6:SX1272SetBoardTcxo	1
+../Core/Inc/sx1272/sx1272mb2das-board.c:81:10:SX1272GetBoardTcxoWakeupTime	1
+../Core/Inc/sx1272/sx1272mb2das-board.c:86:6:SX1272Reset	1
+../Core/Inc/sx1272/sx1272mb2das-board.c:116:6:SX1272SetRfTxPower	10
+../Core/Inc/sx1272/sx1272mb2das-board.c:177:16:SX1272GetPaSelect	1
+../Core/Inc/sx1272/sx1272mb2das-board.c:182:6:SX1272SetAntSwLowPower	3
+../Core/Inc/sx1272/sx1272mb2das-board.c:199:6:SX1272AntSwInit	1
+../Core/Inc/sx1272/sx1272mb2das-board.c:216:6:SX1272AntSwDeInit	1
+../Core/Inc/sx1272/sx1272mb2das-board.c:228:6:SX1272SetAntSw	2
+../Core/Inc/sx1272/sx1272mb2das-board.c:244:6:SX1272CheckRfFrequency	1

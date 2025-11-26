@@ -1,0 +1,11 @@
+../Core/Inc/sx1272/timer.c:21:13:TimerInsertInList	24	static
+../Core/Inc/sx1272/timer.c:58:13:TimerRemoveFromList	24	static
+../Core/Inc/sx1272/timer.c:94:6:TimerInit	16	static
+../Core/Inc/sx1272/timer.c:103:6:TimerStart	16	static,ignoring_inline_asm
+../Core/Inc/sx1272/timer.c:143:6:TimerStop	16	static,ignoring_inline_asm
+../Core/Inc/sx1272/timer.c:160:6:TimerReset	16	static
+../Core/Inc/sx1272/timer.c:166:6:TimerSetValue	24	static
+../Core/Inc/sx1272/timer.c:178:10:TimerGetCurrentTime	4	static
+../Core/Inc/sx1272/timer.c:183:10:TimerGetElapsedTime	24	static
+../Core/Inc/sx1272/timer.c:203:10:TimerTempCompensation	16	static
+../Core/Inc/sx1272/timer.c:210:6:TimerIrqHandler	16	static
