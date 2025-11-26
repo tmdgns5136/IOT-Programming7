@@ -1,0 +1,4 @@
+../Core/Inc/sx1272/utilities.c:23:9:rand1	1
+../Core/Inc/sx1272/utilities.c:28:6:srand1	1
+../Core/Inc/sx1272/utilities.c:34:9:randr	1
+../Core/Inc/sx1272/utilities.c:39:6:memcpy1	2

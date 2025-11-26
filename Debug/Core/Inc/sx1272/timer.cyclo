@@ -1,0 +1,11 @@
+../Core/Inc/sx1272/timer.c:21:13:TimerInsertInList	6
+../Core/Inc/sx1272/timer.c:58:13:TimerRemoveFromList	6
+../Core/Inc/sx1272/timer.c:94:6:TimerInit	1
+../Core/Inc/sx1272/timer.c:103:6:TimerStart	5
+../Core/Inc/sx1272/timer.c:143:6:TimerStop	2
+../Core/Inc/sx1272/timer.c:160:6:TimerReset	1
+../Core/Inc/sx1272/timer.c:166:6:TimerSetValue	2
+../Core/Inc/sx1272/timer.c:178:10:TimerGetCurrentTime	1
+../Core/Inc/sx1272/timer.c:183:10:TimerGetElapsedTime	3
+../Core/Inc/sx1272/timer.c:203:10:TimerTempCompensation	1
+../Core/Inc/sx1272/timer.c:210:6:TimerIrqHandler	5
